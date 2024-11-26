@@ -1,0 +1,2 @@
+# WayZombi
+tikay ot zombi
